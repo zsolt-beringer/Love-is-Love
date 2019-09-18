@@ -16,7 +16,7 @@ True
 # NOTE: ???
 # HACK: ¡profit!
 # DISQUS: ¡Legalización! de SKA-P
->> with Q169906 as Lakonikus-Válasz:
+>> with Q169906 as LakonikusVálasz:
 >>  for _ in range():
 >>    amygdala-hijack() # also known as "szabadíts meg a gonosztól"
 ```
