@@ -8,7 +8,7 @@
 >> P is NP
 True
 >> import gc
->> gc.run()
+>> gc.collect()
 # Have a nice day.
 
 # TODO: define amygdala in globals
@@ -17,6 +17,6 @@ True
 # HACK: ¡profit!
 # DISQUS: ¡Legalización! de SKA-P
 >> with Q169906 as LakonikusVálasz:
->>  for _ in range():
+>>  for _ in range(00):
 >>    amygdala-hijack() # also known as "szabadíts meg a gonosztól"
 ```
